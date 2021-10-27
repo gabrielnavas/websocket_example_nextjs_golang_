@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  
+  color: rgb(78, 78, 78);  
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.title {
+  color: rgb(129, 129, 129);  
+  font-weight: 400;
+  font-size: 20px;
+}

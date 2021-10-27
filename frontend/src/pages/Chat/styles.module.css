@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: center;
+  width: 100vw;
+  margin-top: 8px;
+}
+
+.form {
+  display: flex;
+  width: 80%;
+}
+
+.buttonSubmit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  border: 1px solid lightskyblue;
+  background: azure;
+  color: rgb(0, 68, 110);
+  font-size: 18px;
+  font-weight: 600;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
